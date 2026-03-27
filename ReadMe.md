@@ -3,10 +3,10 @@
 **Setting up our first electron application**
 
 ```
-_Planning_
+Planning
 
-_Implementation_
+Implementation
 
-_Testing_
+Testing
 
 ```
