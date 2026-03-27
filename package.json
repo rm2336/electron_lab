@@ -12,5 +12,8 @@
     "terminal"
   ],
   "author": "Roko",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^41.1.0"
+  }
 }
