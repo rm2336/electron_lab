@@ -1,6 +1,6 @@
 # Electron Application
 
-**Setting up our first electron application**
+**_Setting up our first electron application_**
 
 ```
 Planning
