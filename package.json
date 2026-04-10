@@ -4,6 +4,7 @@
   "description": "Electron App",
   "main": "index.js",
   "scripts": {
+    "start": "electron .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
@@ -11,5 +12,8 @@
     "terminal"
   ],
   "author": "Roko",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^41.1.0"
+  }
 }
